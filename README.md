@@ -3,5 +3,5 @@
 <h2> Compuesto por: </h2>
 <ol>
   <li> Fichero de pruebas. </li>
-  <li>  </li>
+  <li> ... </li>
   </ol>
